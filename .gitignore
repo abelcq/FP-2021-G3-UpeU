@@ -1,6 +1,7 @@
 *.replit
 *.class
-**/*
+*.jar
+#**/*
 !**/*.go
 !**/*.java
 !**/*.dart
