@@ -10,4 +10,4 @@ def ViajeDeEstudios():
     print("El costo del pasaje de cada alumno sera de $40")
   elif CantidadDeAlumnos<20:
     print("El costo del pasaje de cada alumno sera de $70")
-ViajeDeEstudios()
+#ViajeDeEstudios()

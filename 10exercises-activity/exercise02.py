@@ -8,4 +8,4 @@ def VotoElecciones():
   else:
     mensaje ="Usted no cumple con la edad mínima para votar"
   print(mensaje)
-VotoElecciones()
+#VotoElecciones()
